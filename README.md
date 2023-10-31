@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Soy un apasionado de los datos generados a través del marketing digital, un visionario y emprendedor comprometido con la innovación y la transformación digital. Creo que el mundo es más accesible y eficiente con la tecnología adecuada. Mi pasión por compartir conocimiento me motiva a ayudar a quienes carecen de recursos para acceder a la educación digital. Mi meta es difundir y llevar el conocimiento a lugares donde el acceso al mundo digital es limitado, impulsando y potenciando el talento aún por descubrir.
 <!--
 **jonatanare/jonatanare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
